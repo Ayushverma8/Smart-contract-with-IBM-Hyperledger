@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "assignmentTwoExists",
+        "transactionLabel": "A test assignmentTwoExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createAssignmentTwo",
+        "transactionLabel": "A test createAssignmentTwo transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readAssignmentTwo",
+        "transactionLabel": "A test readAssignmentTwo transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateAssignmentTwo",
+        "transactionLabel": "A test updateAssignmentTwo transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteAssignmentTwo",
+        "transactionLabel": "A test deleteAssignmentTwo transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
